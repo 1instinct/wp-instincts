@@ -1,0 +1,13 @@
+{
+    "name": "instinct/wp",
+    "description": "Material Instinct LLC",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aaron Smulktis",
+            "email": "aaron@instinct.is"
+        }
+    ],
+    "require": {}
+}
