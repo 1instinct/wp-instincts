@@ -9,5 +9,19 @@
             "email": "aaron@instinct.is"
         }
     ],
-    "require": {}
+    "repositories": [
+      {
+        "type": "composer",
+        "url": "http://wpackagist.org"
+      }
+    ],
+    "require": {
+        "wpackagist-plugin/all-in-one-seo-pack": "^2.9",
+        "wpackagist-plugin/advanced-custom-fields": "^5.7",
+        "wpackagist-plugin/adminimize": "^1.11",
+        "wpackagist-plugin/ajax-load-more": "^4.0"
+    },
+    "config": {
+        "secure-http": false
+    }
 }
