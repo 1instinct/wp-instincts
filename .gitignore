@@ -28,3 +28,18 @@ wp-content/plugins/hello.php
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
+# New Ignore: http://stevegrunwell.github.io/wordpress-git/#/10
+/wp-content/themes/twenty*
+/wp-content/upgrade
+/wp-content/uploads
+/sitemap.*
+/wp-config.php
+*.sql
+
+# Hidden files
+*.DS_Store
+*Thumbs.db
+*.sass-cache*
+*~imageoptim*
