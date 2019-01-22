@@ -16,6 +16,7 @@
       }
     ],
     "require": {
+        "johnpbloch/wordpress": "*",
         "wpackagist-plugin/all-in-one-seo-pack": "^2.9",
         "wpackagist-plugin/advanced-custom-fields": "^5.7",
         "wpackagist-plugin/adminimize": "^1.11",
